@@ -12,7 +12,7 @@
 
 - Копытова Мария:
     - анализ целевой аудитории (https://rmsp.nalog.ru/statistics.html, https://rosstat.gov.ru/folder/11188)
-    - анализ стратегии продвижения (
+    - анализ стратегии продвижения (объемы запросов, ключевые слова для рекламы https://wordstat.yandex.ru, https://trends.google.com/trends/)
 - Фоминых Варвара:
     - анализ конкурентов (приложения в https://www.rustore.ru, https://www.rusprofile.ru (компании, предлагающие тот же продукт или схожую услугу))
     -  анализ кадрового обеспечения проекта (https://rosstat.gov.ru/labour_force, https://rosstat.gov.ru/labour_costs, https://hh.ru)
